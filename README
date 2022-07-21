@@ -1,0 +1,15 @@
+# Python List Exercise | Jun2022
+
+## Change of Tax Load
+
+- Reforms and changes in tax burdens are very common in Brazil.
+
+Let's say that you work at an ecommerce company
+
+In Brazil, the tax on books is zero. From one year to the next, the government created a new tax that is levied at 10% on the value of books and now you need to change the company's book price record to ensure that this tax will be passed on to the final price of the product.
+
+Create a code that recalculates the book value of your product list and fits into the table.
+
+Also, calculate what the financial impact of creating this tax will be on the company (that is, how much the tax will cost the company)
+
+Note: Your code should work even if there are no books in the company's product list
